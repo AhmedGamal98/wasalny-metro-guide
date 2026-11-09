@@ -1,0 +1,16 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+ipch/
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+# User accounts created by the app
+Wasalny/Wasalny/data/*
+!Wasalny/Wasalny/data/.gitkeep
